@@ -1,0 +1,8 @@
+node_modules/
+.project_id
+.github_repo
+.env
+.env.*
+ai-videos-2026-09-14/_removed/
+ai-videos-2026-09-14/_raw/
+attachments/

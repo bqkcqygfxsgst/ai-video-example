@@ -1,0 +1,2603 @@
+[
+  {
+    "id": "2098113856245465474",
+    "handle": "NACHOS2D_",
+    "model": "Seedance 2.5",
+    "likes": 1156,
+    "views": 33563,
+    "followers": 35347,
+    "date": "2026-09-10",
+    "dur_ms": 30041,
+    "video_url": "https://video.twimg.com/amplify_video/2098112651423326219/vid/avc1/992x432/JLl0jDezWh9zD1qp.mp4",
+    "caption": "Cissia discovered a new way to get around.",
+    "sell": "角色发明奇怪代步方式，适合做交通/载具恶搞镜头",
+    "evidence": "Seedance 2.5 同系列",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 30.11,
+    "ocr": {
+      "marked": 1,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [],
+      [],
+      [
+        "POWER TO SPARE"
+      ],
+      []
+    ]
+  },
+  {
+    "id": "2099139883524616693",
+    "handle": "TechieBySA",
+    "model": "Seedance 2.5",
+    "likes": 829,
+    "views": 51587,
+    "followers": 0,
+    "date": "2026-09-13",
+    "dur_ms": 15041,
+    "video_url": "https://video.twimg.com/amplify_video/2099139845432238080/vid/avc1/1080x1080/0ezYVt7FGEQ59kRs.mp4",
+    "caption": "I will look for you Seedance 2.5 + GPT Image 2.5",
+    "sell": "追杀宣言式特写，适合做动作预告的威胁钩子",
+    "evidence": "Seedance 2.5 + GPT Image 2.5",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 15.09,
+    "ocr": {
+      "marked": 4,
+      "huge": false,
+      "edge": 4
+    },
+    "frame_texts": [
+      [
+        "PETIREDCIA/PARIS",
+        "TAKEN",
+        "PARIS.ONE NIGHT.ONE CHANCE.",
+        "IWILLFIND YOU.ANDIWILL KILL YOU"
+      ],
+      [
+        "PETIREDCIA/PARIS",
+        "TAKEN",
+        "PARIS.ONE NIGHT.ONE CHANCE.",
+        "IWILLFIND YOU.ANDIWILL KILL YOU"
+      ],
+      [
+        "PETIREDCIA/PARIS",
+        "TAKEN",
+        "PARIS.ONE NIGHT.ONE CHANCE.",
+        "IWILL FIND YOU.ANDIWILL KILL YOU"
+      ],
+      [
+        "PETIREDCIA/PARIS",
+        "NEVL",
+        "PARIS.ONE NIGHT.ONE CHANCE.",
+        "IWILLFIND YOU.ANDIWILL KILL YOU"
+      ]
+    ]
+  },
+  {
+    "id": "2092628133274882286",
+    "handle": "Kling_ai",
+    "model": "Kling 3.0",
+    "likes": 238,
+    "views": 162605,
+    "followers": 134835,
+    "date": "2026-08-26",
+    "dur_ms": 19500,
+    "video_url": "https://video.twimg.com/amplify_video/2092587019687915520/vid/avc1/1440x2558/Aer5hCYi2iqhGKb9.mp4",
+    "caption": "Welcome to a World You've Never Seen",
+    "sell": "异世界竖屏探索开场，适合做世界观建立镜头",
+    "evidence": "from @Kling_ai official",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 19.55,
+    "ocr": {
+      "marked": 3,
+      "huge": false,
+      "edge": 7
+    },
+    "frame_texts": [
+      [
+        "ADESERTSHAMAN",
+        "PRTESTESS",
+        "NENORMOUS",
+        "SACREDWHIT",
+        "ELEPHANT",
+        "SEATEDONAN",
+        "ORNATESADDLE",
+        "PLACEDBEHIND",
+        "THEHEAD"
+      ],
+      [
+        "ENORMOUSSCALED",
+        "FLTPPERS,THE",
+        "BTRD-LTKEHEAD,",
+        "THELONG",
+        "SERPENTTATL",
+        "SWTMMTNG",
+        "STEADTLY",
+        "FORWARD",
+        "THROUGHTHE",
+        "OPENOCEAN"
+      ],
+      [
+        "THERTDER",
+        "ENORMOUSSCALED",
+        "FLPPERS,THE",
+        "BTRD-LTKEHEAD,",
+        "THELONG",
+        "SERPENTTATL",
+        "SWTMMTNG",
+        "STEADTLY",
+        "FORWARD",
+        "THROUGHTHE",
+        "OPENOCEAN"
+      ],
+      [
+        "ASHAMAN",
+        "ANENORMOU",
+        "SACREDFI",
+        "MARCHTNG",
+        "TOWARDCAMERA",
+        "ACROSSDRY",
+        "MOUNTATNBASTN"
+      ]
+    ]
+  },
+  {
+    "id": "2098379694240338135",
+    "handle": "Kling_ai",
+    "model": "Kling 3.0",
+    "likes": 114,
+    "views": 142033,
+    "followers": 134835,
+    "date": "2026-09-11",
+    "dur_ms": 13000,
+    "video_url": "https://video.twimg.com/amplify_video/2098378429666070532/vid/avc1/1080x1920/x_VXNDIMdszsYIwV.mp4",
+    "caption": "Training season's over. You're the rodeo now.",
+    "sell": "牛仔竞技场竖屏运动镜头，适合做体育/极限运动广告",
+    "evidence": "from @Kling_ai official",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 13.05,
+    "ocr": {
+      "marked": 4,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "Only you can save yourself,",
+        "no one else..."
+      ],
+      [
+        "Only you can save yourself,",
+        "no one else..."
+      ],
+      [
+        "Only you can save yourself,",
+        "no one else..."
+      ],
+      [
+        "Only you can save yourself,",
+        "no one else..."
+      ]
+    ]
+  },
+  {
+    "id": "2097714004223209608",
+    "handle": "Kling_ai",
+    "model": "Kling 3.0",
+    "likes": 90,
+    "views": 170772,
+    "followers": 134835,
+    "date": "2026-09-09",
+    "dur_ms": 17133,
+    "video_url": "https://video.twimg.com/amplify_video/2097711187513483264/vid/avc1/1920x3414/_PUmy7dR_41NapG0.mp4",
+    "caption": "Some goodbyes don't come with a warning",
+    "sell": "无预警告别的情绪长镜头，适合做离别/回忆杀",
+    "evidence": "from @Kling_ai official",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 17.18,
+    "ocr": {
+      "marked": 4,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "Imagereference",
+        "Prompt",
+        "enurace,ogyeuytass,raveters,",
+        "andsnowynight.",
+        "Camera:realisticsmartphonerear",
+        "camera,POv.15seconds,one",
+        "continuous take,no cuts,16:9,26",
+        "mmwideangle,4K30fps,natural",
+        "autofocus,exposurechanges,",
+        "noise,andslighthandheld",
+        "movement.",
+        "Spacecameraoperatoralways"
+      ],
+      [
+        "Imagereference",
+        "Prompt",
+        "remainsbetweenthem.Nobody",
+        "andnothingpassesthroughthe",
+        "glass.",
+        "Continuity.herrighthandalways",
+        "holdstheumbrella.Herlefthand",
+        "holdsaphone,clearlyputsitinto",
+        "herleftcoatpocket,thenwaves,",
+        "wipestheglass,touchespalms",
+        "throughtheglass,andwaves",
+        "goodbye.Thecameraoperator"
+      ],
+      [
+        "Imagereference",
+        "Prompt",
+        "-0-3s:Shewaits,checksher",
+        "phone,looksup,noticesthe",
+        "cameraoperator,stepscloser,",
+        "andsmilesbrightly.",
+        "-3-5s:Sheputs thephone into",
+        "herleftpocket,waves,andsays,",
+        "You'rehere!\"",
+        "-5-6.5s:She wipesa small",
+        "irregularclearpatchinthe",
+        "condensationwithherleftsleeve."
+      ],
+      [
+        "Imagereference",
+        "Prompt",
+        "separatedbyvisibleglass.",
+        "-9-11s:Theylower theirhands.",
+        "Shesays,“Bye,andwaves twice.",
+        "Apalmprintand theclearpatch",
+        "remain.",
+        "-11-15s:Sheturns andwalks away.",
+        "Thecamerapansrighttofollow.",
+        "Shelooksbacktwice,givesone",
+        "smallfinalwave,andremains",
+        "visibleattheend."
+      ]
+    ]
+  },
+  {
+    "id": "2090408971744018837",
+    "handle": "Kling_ai",
+    "model": "Kling 3.0",
+    "likes": 106,
+    "views": 319505,
+    "followers": 134835,
+    "date": "2026-08-20",
+    "dur_ms": 15333,
+    "video_url": "https://video.twimg.com/amplify_video/2090408510014070784/vid/avc1/1918x1080/2niTVlPmFJeDmWrh.mp4",
+    "caption": "Own every angle. Steal the spotlight.",
+    "sell": "多机位抢镜走秀，适合做时尚/美妆产品出场",
+    "evidence": "from @Kling_ai official",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 15.39,
+    "ocr": {
+      "marked": 3,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [],
+      [
+        "and this is waist level foreground framing"
+      ],
+      [
+        "keep moving and now you get a clean OTS"
+      ],
+      [
+        "Now flip the angle and do it again"
+      ]
+    ]
+  },
+  {
+    "id": "2089366652198727984",
+    "handle": "Kling_ai",
+    "model": "Kling 3.0",
+    "likes": 238,
+    "views": 504896,
+    "followers": 134835,
+    "date": "2026-08-17",
+    "dur_ms": 19900,
+    "video_url": "https://video.twimg.com/amplify_video/2089324699859783680/vid/avc1/1080x1920/8hAuxMbdSd0w5Lqj.mp4",
+    "caption": "Create Hitchcock Zoom in Seconds",
+    "sell": "希区柯克变焦竖屏示范，适合做悬疑开场运镜",
+    "evidence": "from @Kling_ai official",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 19.97,
+    "ocr": {
+      "marked": 4,
+      "huge": true,
+      "edge": 8
+    },
+    "frame_texts": [
+      [
+        "PROMPT",
+        "HITCHCOCK ZOOM",
+        "VIDEO GENERATION PROMPT",
+        "Scene&Setup",
+        "Photorealisticquality,no3Drenderingorgameengine",
+        "texture,stable24fpsmotion.Crampeddetectiveofficeat",
+        "duskwithnaturalcontre-jourbacklightandatmospheric",
+        "haze.Mutedolivegreen,woodbrownandwhitecolor",
+        "palette.Aweatheredmaleinspectorinhis50ssitsata",
+        "deskwithhyper-realisticskintextureandsubtlefacial",
+        "expressions.Physically accurate composition,natural",
+        "ambientsound only."
+      ],
+      [
+        "PROMPT",
+        "HITCHCOCKZOOM",
+        "VIDEO GENERATION PROMPT",
+        "Scene&Setup",
+        "Documentary-stylephotorealism,no3Drendering,jitter-",
+        "freesmooth24fpsfootage.Woodenriversidepierona",
+        "hazysummernoonwithcleannaturaldaylight.Warm",
+        "amberdominanttonematchedwithdeepgreenfoliage",
+        "andwhiteshirtaccents.Calmmiddle-agedmaleinhis40s",
+        "withrealisticskintextureandsubtlebreathingmicro-",
+        "movements.Physically correctlighting,nomusic,pure",
+        "ambientsound."
+      ],
+      [
+        "PROMPT",
+        "HITCHCOCKZOOM",
+        "VIDEO GENERATION PROMPT",
+        "Scene&Setup",
+        "Documentary-style photorealism,no3Drendering,jitter-",
+        "freesmooth24fpsfootage.Woodenriversidepierona",
+        "hazysummernoonwithcleannaturaldaylight.Warm",
+        "amberdominanttonematchedwithdeepgreenfoliage",
+        "andwhiteshirtaccents.Calmmiddle-agedmaleinhis40s",
+        "withrealisticskintextureandsubtlebreathingmicro-",
+        "movements.Physicallycorrectlighting,nomusic,pure",
+        "ambientsound."
+      ],
+      [
+        "PROMPT",
+        "HITCHCOCK ZOOM",
+        "VIDEO GENERATIONPROMPT",
+        "Scene&Setup",
+        "Ultra-photorealistic live-action quality,no digitalrendering",
+        "orgameaesthetic,stable24fps.Crowdedhotelballroomin",
+        "atmosphere.Tungstenamber,deepburgundyandpure",
+        "whitetonescheme.Asharpandcomposedearly-30s",
+        "femalewithpore-perfectskintextureandrestrained",
+        "realisticperformance.Physicallyaccuratelighting，ambient",
+        "soundeffects.",
+        "Shot&Camera"
+      ]
+    ]
+  },
+  {
+    "id": "2087554708101570682",
+    "handle": "Kling_ai",
+    "model": "Kling 3.0",
+    "likes": 86,
+    "views": 217234,
+    "followers": 134835,
+    "date": "2026-08-12",
+    "dur_ms": 15743,
+    "video_url": "https://video.twimg.com/amplify_video/2087548384382992386/vid/avc1/1920x1080/dtYSnD-OLw7HQ1bF.mp4",
+    "caption": "This little pirate cat is going viral worldwide",
+    "sell": "海盗猫角色预告，适合做IP吉祥物出场",
+    "evidence": "from @Kling_ai official",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 15.79,
+    "ocr": {
+      "marked": 3,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [],
+      [
+        "37.1M",
+        "265K",
+        "im_KvisionThepirate",
+        "world!mo"
+      ],
+      [
+        "raise the flag,captain",
+        "siono.38M",
+        "tiny piratew",
+        "tiny piratew..",
+        "CAPTAIN",
+        "tiny pirate",
+        "isthisAl??",
+        "the tinyhatpls",
+        "broownstheship",
+        "tinypirate\"",
+        "thehat",
+        "CAPTAINISONTHEMOVE"
+      ],
+      [
+        "GRANDOPENING",
+        "PIRATE",
+        "LAND",
+        "DDTOWNMETACENTER,USA·"
+      ]
+    ]
+  },
+  {
+    "id": "2091793465742934350",
+    "handle": "hungrydonkey",
+    "model": "Kling 3.0",
+    "likes": 2872,
+    "views": 2323720,
+    "followers": 0,
+    "date": "2026-08-24",
+    "dur_ms": 12119,
+    "video_url": "https://video.twimg.com/amplify_video/2091793434558300161/vid/avc1/1080x1080/aex8g5NcO5pbFDCK.mp4",
+    "caption": "Usain Bolt, running robot-style Made with Kling 3.0 Omni",
+    "sell": "博尔特机器人跑法，适合做运动生物力学趣味演示",
+    "evidence": "Made with @magnific + Kling 3.0 Omni",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 12.17,
+    "ocr": {
+      "marked": 2,
+      "huge": true,
+      "edge": 2
+    },
+    "frame_texts": [
+      [],
+      [],
+      [
+        "北工投资",
+        "北京证券",
+        "SEUNGINUSTEAI",
+        "NVESTVENT",
+        "工投资",
+        "北京证券",
+        "GNOUS",
+        "BLINC SECURITES"
+      ],
+      [
+        "北京产权交易所",
+        "BESEO",
+        "OSTER",
+        "利亚酒",
+        "北京产权交易所",
+        "GTAN",
+        "CHINA BEUING EGUTYEXCH"
+      ]
+    ]
+  },
+  {
+    "id": "2084650873880219929",
+    "handle": "kaolti",
+    "model": "Kling O1",
+    "likes": 787,
+    "views": 40027,
+    "followers": 0,
+    "date": "2026-08-04",
+    "dur_ms": 25550,
+    "video_url": "https://video.twimg.com/amplify_video/2084650558820958208/vid/avc1/3836x2160/HsaL_81HtuHcqS3A.mp4",
+    "caption": "Built this with Grok Imagine, Kling O1 for restyling",
+    "sell": "视频遮罩重绘实验，适合做风格迁移转场",
+    "evidence": "Kling O1 for restyling the original video",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 25.55,
+    "ocr": {
+      "marked": 4,
+      "huge": false,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "SUBSTRATE",
+        "INSTRUMENT",
+        "FIELD NOTES",
+        "COMPANK",
+        "REQUESTACCESS",
+        "See the world",
+        "beneath theworld.",
+        "Substrateresolves anylandscapeinto its livingmicrobial",
+        "layer-the same meadow,four ordersofmagnitude",
+        "down.Non-invasive.Real-time.In the field.",
+        "REQUESTEARLYACCESS",
+        "WATCH THE FILM"
+      ],
+      [
+        "SUBSTRATE",
+        "INSTRUMENT",
+        "FIELD NOTES",
+        "COMPANY",
+        "REQUESTACCESS",
+        "See theworld",
+        "beneaththeworld.",
+        "Substrateresolves any landscape into its living microbial",
+        "layer-the same meadow,four orders of magnitude",
+        "down. Non-invasive. Real-time. In the field.",
+        "REQUESTEARLYACCESS",
+        "WATCH THE FILM"
+      ],
+      [
+        "SUBSTRATE",
+        "INSTRUMENT",
+        "FIELD NOTES",
+        "COMPANY",
+        "REQUESTACCESS",
+        "See the world",
+        "beneaththeworld.",
+        "Substrateresolves any landscape intoits livingmicrobial",
+        "layer-the same meadow,four ordersof magnitude",
+        "down. Non-invasive.Real-time. In the field.",
+        "REQUESTEARLYACCESS",
+        "WATCH THE FILM"
+      ],
+      [
+        "SUBSTRATE",
+        "INSTRUMENT",
+        "FIELD NOTES",
+        "COMPANY,",
+        "REQUESTACCESS",
+        "See the world",
+        "beneaththeworld.",
+        "Substrateresolves any landscape into its livingmicrobial",
+        "layer- the same meadow,four orders of magnitude",
+        "down. Non-invasive.Real-time. In the field.",
+        "REQUESTEARLYACCESS",
+        "WATCH THE FILM"
+      ]
+    ]
+  },
+  {
+    "id": "2087809878450704709",
+    "handle": "8co28",
+    "model": "MiniMax H3",
+    "likes": 1573,
+    "views": 159933,
+    "followers": 0,
+    "date": "2026-08-13",
+    "dur_ms": 15083,
+    "video_url": "https://video.twimg.com/amplify_video/2087809525546098688/vid/avc1/1440x2560/al5pnfmYXRIZM_ZZ.mp4",
+    "caption": "アホほどPRっぽいけど別にPRじゃない動画をMinimax H3で作りました",
+    "sell": "竖屏伪广告质感短片，适合做产品种草开场",
+    "evidence": "Minimax H3で作りました（Hailuo公式サイトで作成）",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 15.15,
+    "ocr": {
+      "marked": 4,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "Al動画作成"
+      ],
+      [
+        "飞七寒体"
+      ],
+      [
+        "GPU搭载PC",
+        "自生成",
+        "Minia",
+        "飞試世"
+      ],
+      [
+        "MiniaxH3、",
+        "GPU搭载PCT",
+        "自生成可能"
+      ]
+    ]
+  },
+  {
+    "id": "2098152327605538994",
+    "handle": "KeorUnreal",
+    "model": "Grok Imagine",
+    "likes": 2916,
+    "views": 73886,
+    "followers": 0,
+    "date": "2026-09-10",
+    "dur_ms": 10041,
+    "video_url": "https://video.twimg.com/amplify_video/2098151623910445057/vid/avc1/704x1280/elP979eOV4x_7ea8.mp4",
+    "caption": "Millie awaits you in your dreams Grok Imagine 2.0",
+    "sell": "梦境人物晚安竖屏，适合做角色问候/ASMR片头",
+    "evidence": "Grok Imagine 2.0",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 10.13,
+    "ocr": {
+      "marked": 1,
+      "huge": true,
+      "edge": 1
+    },
+    "frame_texts": [
+      [
+        "Keor"
+      ],
+      [],
+      [],
+      [
+        "(ela"
+      ]
+    ]
+  },
+  {
+    "id": "2088736437654949998",
+    "handle": "dvorahfr",
+    "model": "Grok Imagine",
+    "likes": 857,
+    "views": 3362184,
+    "followers": 196026,
+    "date": "2026-08-15",
+    "dur_ms": 21000,
+    "video_url": "https://video.twimg.com/amplify_video/2088736407795748864/vid/avc1/768x1168/jI0VxC8Ax_Xv_8DW.mp4",
+    "caption": "Grok to understand the Universe",
+    "sell": "宇宙解说风人物出镜，适合做科普开场钩子",
+    "evidence": "Grok to understand the Universe",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 21.06,
+    "ocr": {
+      "marked": 3,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "=hu",
+        "s0=hn"
+      ],
+      [
+        "Juselnv"
+      ],
+      [],
+      [
+        "GROK"
+      ]
+    ]
+  },
+  {
+    "id": "2089443401695470006",
+    "handle": "grok",
+    "model": "Grok Imagine",
+    "likes": 7613,
+    "views": 34638554,
+    "followers": 0,
+    "date": "2026-08-17",
+    "dur_ms": 31541,
+    "video_url": "https://video.twimg.com/amplify_video/2089440735934205952/vid/avc1/3840x2160/Q3d1A4fkYH2n4_pu.mp4",
+    "caption": "Homer had a lyre. You have Grok Imagine. Odyssey contest",
+    "sell": "荷马史诗官方示范，适合做史诗旁白+画面开场",
+    "evidence": "Grok @Imagine’s video and voice capabilities",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 31.59,
+    "ocr": {
+      "marked": 1,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [],
+      [],
+      [],
+      [
+        "Grok Imagine"
+      ]
+    ]
+  },
+  {
+    "id": "2096914861813055625",
+    "handle": "HappyHorseATH",
+    "model": "Happy Horse 1.0",
+    "likes": 35,
+    "views": 161384,
+    "followers": 7097,
+    "date": "2026-09-07",
+    "dur_ms": 17484,
+    "video_url": "https://video.twimg.com/amplify_video/2096914821946208256/vid/avc1/1080x1920/oLBh_F35B3r1zkky.mp4",
+    "caption": "What happens when your picnic accidentally enter Giant Mode",
+    "sell": "野餐突然巨物化，适合做尺度反转创意广告",
+    "evidence": "from @HappyHorseATH official",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 17.53,
+    "ocr": {
+      "marked": 1,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [],
+      [],
+      [],
+      [
+        "Happy Horse",
+        "Try this template on happyhorse.com"
+      ]
+    ]
+  },
+  {
+    "id": "2095106011539644772",
+    "handle": "HappyHorseATH",
+    "model": "Happy Horse 1.0",
+    "likes": 36,
+    "views": 91379,
+    "followers": 7097,
+    "date": "2026-09-02",
+    "dur_ms": 18784,
+    "video_url": "https://video.twimg.com/amplify_video/2095105872926318592/vid/avc1/1080x1920/xXfSX_IJKBxHK8Ww.mp4",
+    "caption": "furry friend accidentally goes live on stream",
+    "sell": "宠物误开直播的混乱现场，适合做UGC/直播恶搞",
+    "evidence": "from @HappyHorseATH official",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 18.83,
+    "ocr": {
+      "marked": 1,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [],
+      [],
+      [],
+      [
+        "Happy Horse",
+        "Try this template on happyhorse.com"
+      ]
+    ]
+  },
+  {
+    "id": "2093293746943144067",
+    "handle": "NACHOS2D_",
+    "model": "Seedance 2.5",
+    "likes": 732,
+    "views": 26708,
+    "followers": 35347,
+    "date": "2026-08-28",
+    "dur_ms": 30080,
+    "video_url": "https://video.twimg.com/amplify_video/2093292872241946624/vid/avc1/992x432/Fmg_Qa00SIJ3Qf3b.mp4",
+    "caption": "The three of them drank a mysterious drink.",
+    "sell": "喝神秘饮料后变胖的变形 gag，适合做变身喜剧",
+    "evidence": "Seedance 2.5 同系列",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 30.14,
+    "ocr": {
+      "marked": 3,
+      "huge": false,
+      "edge": 3
+    },
+    "frame_texts": [
+      [
+        "！光才！乾杯、共犯者！"
+      ],
+      [],
+      [
+        "！空浮丸八么人！"
+      ],
+      [
+        "天罚！（）巨大一瓜入入、！"
+      ]
+    ]
+  },
+  {
+    "id": "2093011893472329971",
+    "handle": "NACHOS2D_",
+    "model": "Seedance 2.5",
+    "likes": 793,
+    "views": 39731,
+    "followers": 35347,
+    "date": "2026-08-27",
+    "dur_ms": 30041,
+    "video_url": "https://video.twimg.com/amplify_video/2093011315551862784/vid/avc1/992x432/SEKIkLw2Mi3t-Ev4.mp4",
+    "caption": "practice yoga together Made with Seedance 2.5 (ArtCraft)",
+    "sell": "三人瑜伽动作对比喜剧，适合做健身恶搞",
+    "evidence": "Made with Seedance 2.5 (ArtCraft)",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 30.11,
+    "ocr": {
+      "marked": 3,
+      "huge": false,
+      "edge": 3
+    },
+    "frame_texts": [
+      [],
+      [
+        "待、待！私足！！"
+      ],
+      [
+        "限界·（）··最高"
+      ],
+      [
+        "優雅、人。20残。"
+      ]
+    ]
+  },
+  {
+    "id": "2092281920704901537",
+    "handle": "NACHOS2D_",
+    "model": "Seedance 2.5",
+    "likes": 508,
+    "views": 20236,
+    "followers": 35347,
+    "date": "2026-08-25",
+    "dur_ms": 30080,
+    "video_url": "https://video.twimg.com/amplify_video/2092281780749451266/vid/avc1/992x432/ERT_uyLbJp5DQqEr.mp4",
+    "caption": "tried to escape after robbing a bank",
+    "sell": "抢银行后逃跑失败，适合做动作喜剧追逐",
+    "evidence": "Seedance 2.5 同系列",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 30.14,
+    "ocr": {
+      "marked": 3,
+      "huge": false,
+      "edge": 3
+    },
+    "frame_texts": [
+      [
+        "急、！仅！近"
+      ],
+      [],
+      [
+        "LICE",
+        "POL",
+        "動！手！包！"
+      ],
+      [
+        "私の！彼！部彼特！"
+      ]
+    ]
+  },
+  {
+    "id": "2092215356290932871",
+    "handle": "NACHOS2D_",
+    "model": "Seedance 2.5",
+    "likes": 576,
+    "views": 22915,
+    "followers": 35347,
+    "date": "2026-08-25",
+    "dur_ms": 30080,
+    "video_url": "https://video.twimg.com/amplify_video/2092214611789443072/vid/avc1/992x432/SplXMHrhScwsf8FF.mp4",
+    "caption": "Cissia is getting all of Velina’s attention.",
+    "sell": "吃醋三角关系日常，适合做角色互动短剧",
+    "evidence": "Seedance 2.5 同系列",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 30.14,
+    "ocr": {
+      "marked": 3,
+      "huge": false,
+      "edge": 3
+    },
+    "frame_texts": [
+      [
+        "、最高！食！"
+      ],
+      [
+        "彼可能"
+      ],
+      [
+        "私！！私大人！"
+      ],
+      []
+    ]
+  },
+  {
+    "id": "2091657670881149144",
+    "handle": "NACHOS2D_",
+    "model": "Seedance 2.5",
+    "likes": 6324,
+    "views": 255034,
+    "followers": 35347,
+    "date": "2026-08-23",
+    "dur_ms": 30080,
+    "video_url": "https://video.twimg.com/amplify_video/2091651417689714688/vid/avc1/992x432/y4cPXKCj0biJoz8x.mp4",
+    "caption": "Velina was the only one who could lift it.",
+    "sell": "举重失败的力量反差 gag，适合做运动喜剧",
+    "evidence": "Seedance 2.5 同系列",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 30.14,
+    "ocr": {
+      "marked": 2,
+      "huge": false,
+      "edge": 2
+    },
+    "frame_texts": [
+      [
+        "、重持上！"
+      ],
+      [],
+      [],
+      [
+        "N.E.P.S",
+        "、完全自過信"
+      ]
+    ]
+  },
+  {
+    "id": "2090230978547703913",
+    "handle": "Jessewelle",
+    "model": "MiniMax H3",
+    "likes": 5311,
+    "views": 1137935,
+    "followers": 0,
+    "date": "2026-08-20",
+    "dur_ms": 15083,
+    "video_url": "https://video.twimg.com/amplify_video/2090230875883786240/vid/avc1/1280x720/dbeUj4MuMgAB3YA-.mp4",
+    "caption": "Minimax h3 is just way too good. Rendered this locally",
+    "sell": "本地H3高质量人物表演，适合做对白情景剧",
+    "evidence": "Minimax h3 is just way too good",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 15.17,
+    "ocr": {
+      "marked": 1,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "Po NeePo Nri",
+        "JIONA"
+      ],
+      [
+        "Pcuoc"
+      ],
+      [
+        "PIONACY"
+      ],
+      [
+        "PcuoeM"
+      ]
+    ]
+  },
+  {
+    "id": "2095622423324590308",
+    "handle": "higgsfield_ai",
+    "model": "Seedance 2.5",
+    "likes": 2384,
+    "views": 426054,
+    "followers": 0,
+    "date": "2026-09-03",
+    "dur_ms": 29966,
+    "video_url": "https://video.twimg.com/amplify_video/2095622324099969024/vid/avc1/1080x1920/vXUKYrYcTW-nAQ2w.mp4",
+    "caption": "This shot walks through seven rooms without a cut. Higgsfield Seedance 2.5",
+    "sell": "七个房间一镜穿行，适合做空间调度/豪宅广告",
+    "evidence": "Higgsfield Seedance 2.5 rendered the whole run",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 29.97,
+    "ocr": {
+      "marked": 4,
+      "huge": false,
+      "edge": 4
+    },
+    "frame_texts": [
+      [
+        "SPATIAL STUDY /LATEST SCINE/ CAMERA + BLOCKING",
+        "Oneshot.Sevenconnectedzones.",
+        "SCENE ZONES",
+        "RVEK VIEW/TRA",
+        "NT WALLS/.TRUE SOENE-G",
+        "ENDRICKWSIBLE",
+        "OMARIA VSBE",
+        "COOKS 8",
+        "STAF9",
+        "UARDS 6",
+        "peoddeans",
+        "1E x 10 m / eper"
+      ],
+      [
+        "SPATIAL STUDY /LATEST SCINE / CAMERA + BLOCKING",
+        "Oneshot.Sevenconnectedzones.",
+        "SCENE ZONES",
+        "RVERVIDW / TRA",
+        "ENT WRLS/TRUE SCENE-CAMERA",
+        "●ENDRICKVISLE",
+        "OMARIA",
+        "COOKS8",
+        "STAF9",
+        "ydde s",
+        "13 x 10 m / agen",
+        "Descending stair"
+      ],
+      [
+        "SPADAL STUDY /LATEST SCINE / CAMERA + BLOCKING",
+        "Oneshot.Sevenconnectedzones.",
+        "SCENE ZONES",
+        "ISERVER VICW/ TRAN",
+        "ARENT WRLLS / TRUE SCENE-C",
+        "ENDRICKVISBLE",
+        "OMARIA VSBLE",
+        "COOKS 8",
+        "STAFF9",
+        "HIARDS",
+        "yeddes",
+        "13x.10 m 1 oper"
+      ],
+      [
+        "SPATIAL STUDY /LATEST SCINE/ CAMERA + BLOCKING",
+        "Oneshot.Sevenconnected zones.",
+        "SCENE ZONES",
+        "ERSER VIEW /TRAN",
+        "SPARENT WRAUS / TRUE SCENE-CAME",
+        "ENDRICKVISBLE",
+        "OMARIA VSE",
+        "COOKS 8",
+        "STAF9",
+        "HUARDS",
+        "peoadde pans",
+        "18 x 10 m 1 opeh"
+      ]
+    ]
+  },
+  {
+    "id": "2095565165202690407",
+    "handle": "TechieBySA",
+    "model": "Seedance 2.5",
+    "likes": 3296,
+    "views": 169640,
+    "followers": 0,
+    "date": "2026-09-03",
+    "dur_ms": 15083,
+    "video_url": "https://video.twimg.com/amplify_video/2095565129832333313/vid/avc1/1080x1080/H1_tK4tZEgCM4FPx.mp4",
+    "caption": "Bad Boys Seedance 2.5 + GPT Image 2",
+    "sell": "警察追逐卡点，适合做动作预告节奏参考",
+    "evidence": "Seedance 2.5 + GPT Image 2",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 15.14,
+    "ocr": {
+      "marked": 4,
+      "huge": true,
+      "edge": 4
+    },
+    "frame_texts": [
+      [
+        "MIKE",
+        "MARCUS",
+        "DETECTIVE/MIAMI PD",
+        "DETECTIVE/MIAMIPD",
+        "BAD",
+        "BOYS",
+        "MIAMI.RIDEORDIE.",
+        "WE RIDETOGETHER.",
+        "WE DIE TOGETHER."
+      ],
+      [
+        "MIKE",
+        "MARCUS",
+        "DETECTIVE/MIAMIPD",
+        "DETECTIVE/MIAMIPD",
+        "BAD",
+        "BOYS",
+        "MIAMI.RIDEOR DIE.",
+        "WERIDE TOGETHER.",
+        "WE DIE TOGETHER."
+      ],
+      [
+        "MIKE",
+        "MARCUS",
+        "DETECTIVE/MIAMI PD",
+        "DETECTIVE/MIAMIPD",
+        "BAD",
+        "BOYS",
+        "MIAMI.RIDE ORDIE.",
+        "WERIDETOGETHER.",
+        "WE DIE TOGETHER."
+      ],
+      [
+        "MIKE",
+        "MARCUS",
+        "DETECTIVE/MIAMIPD",
+        "DETECTIVE/MIAMIPD",
+        "BAD",
+        "BOYS",
+        "MIAMI.RIDEOR DIE",
+        "WERIDETOGETHER.",
+        "WE DIE TOGETHER."
+      ]
+    ]
+  },
+  {
+    "id": "2093364330985136572",
+    "handle": "techhalla",
+    "model": "Seedance 2.5",
+    "likes": 18458,
+    "views": 15307626,
+    "followers": 0,
+    "date": "2026-08-28",
+    "dur_ms": 30058,
+    "video_url": "https://video.twimg.com/amplify_video/2093363136875171840/vid/avc1/900x1200/yaXoh2jlqGQdvt_G.mp4",
+    "caption": "my browser before Magnific Desktop Seedance 2.5",
+    "sell": "浏览器崩溃式视觉隐喻，适合做效率工具广告",
+    "evidence": "Seedance 2.5 prompt",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 30.1,
+    "ocr": {
+      "marked": 2,
+      "huge": false,
+      "edge": 2
+    },
+    "frame_texts": [
+      [
+        "TECH"
+      ],
+      [
+        "Jeaonivee",
+        "WIHEKEY",
+        "AVER",
+        "ECHHALLA"
+      ],
+      [
+        "TLAVER",
+        "ECHHALLA"
+      ],
+      [
+        "TAVEA"
+      ]
+    ]
+  },
+  {
+    "id": "2083014535481598410",
+    "handle": "krea_ai",
+    "model": "MiniMax H3",
+    "likes": 2079,
+    "views": 199977,
+    "followers": 0,
+    "date": "2026-07-31",
+    "dur_ms": 19602,
+    "video_url": "https://video.twimg.com/amplify_video/2082979171522023424/vid/avc1/3840x2160/sFYc4RNxSoBFhUdK.mp4",
+    "caption": "introducing MiniMax H3.",
+    "sell": "H3发布示范镜头，适合做模型能力展示",
+    "evidence": "introducing MiniMax H3",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 19.65,
+    "ocr": {
+      "marked": 2,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "Up to"
+      ],
+      [
+        "KREA",
+        "Rest"
+      ],
+      [
+        "Native audio"
+      ],
+      []
+    ]
+  },
+  {
+    "id": "2075370741378273434",
+    "handle": "heavypulp",
+    "model": "Grok Imagine",
+    "likes": 928,
+    "views": 78184,
+    "followers": 74024,
+    "date": "2026-07-10",
+    "dur_ms": 24208,
+    "video_url": "https://video.twimg.com/amplify_video/2075370595139698688/vid/avc1/3840x1920/2W2eygD8pxdcGYvj.mp4",
+    "caption": "The Spices of Arabia",
+    "sell": "阿拉伯香料市集运镜，适合做美食/旅行广告氛围",
+    "evidence": "heavypulp 同期 Grok Imagine / Seedance 作品线，待帧内复核",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 24.26,
+    "ocr": {
+      "marked": 2,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "\"WETASTETHESPICESOFARABIA"
+      ],
+      [
+        "WE TASTE THE SPICES OF ARABIA",
+        "YET NEVER FEEL THE SCORCHING SUN"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": "2089481794944987566",
+    "handle": "NACHOS2D_",
+    "model": "Seedance 2.5",
+    "likes": 888,
+    "views": 26606,
+    "followers": 35347,
+    "date": "2026-08-17",
+    "dur_ms": 30080,
+    "video_url": "https://video.twimg.com/amplify_video/2089480836357718016/vid/avc1/992x432/YrB7T9CZ4dA9s9oT.mp4",
+    "caption": "Cissia and Velina need to find out who the monster is.",
+    "sell": "找凶手的近身悬疑，适合做惊悚喜剧反转",
+    "evidence": "Seedance 2.5 同系列",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 30.14,
+    "ocr": {
+      "marked": 2,
+      "huge": false,
+      "edge": 2
+    },
+    "frame_texts": [
+      [],
+      [
+        "捕！私天才待的遵！"
+      ],
+      [],
+      [
+        "恶、共犯者。。"
+      ]
+    ]
+  },
+  {
+    "id": "2089465452397281464",
+    "handle": "NACHOS2D_",
+    "model": "Seedance 2.5",
+    "likes": 2151,
+    "views": 62983,
+    "followers": 35347,
+    "date": "2026-08-17",
+    "dur_ms": 30080,
+    "video_url": "https://video.twimg.com/amplify_video/2089464954969583617/vid/avc1/992x432/93r_fU9t9YrAeZni.mp4",
+    "caption": "Cissia is the best when it comes to hitting the target",
+    "sell": "投掷命中的动作喜剧，适合做精准操作 gag",
+    "evidence": "Seedance 2.5 同系列",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 30.14,
+    "ocr": {
+      "marked": 3,
+      "huge": false,
+      "edge": 3
+    },
+    "frame_texts": [
+      [],
+      [
+        "！人下！真！"
+      ],
+      [
+        "一完一·"
+      ],
+      [
+        "！百发中！"
+      ]
+    ]
+  },
+  {
+    "id": "2089378604996042868",
+    "handle": "NACHOS2D_",
+    "model": "Seedance 2.5",
+    "likes": 1229,
+    "views": 35057,
+    "followers": 35347,
+    "date": "2026-08-17",
+    "dur_ms": 30080,
+    "video_url": "https://video.twimg.com/amplify_video/2089373520362897408/vid/avc1/992x432/CLq_3XkcTRYhmypU.mp4",
+    "caption": "pushup contest",
+    "sell": "俯卧撑比赛翻车，适合做健身挑战恶搞",
+    "evidence": "Seedance 2.5 同系列",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 30.14,
+    "ocr": {
+      "marked": 2,
+      "huge": false,
+      "edge": 2
+    },
+    "frame_texts": [
+      [
+        "Sas",
+        "三回··（）··腕死"
+      ],
+      [
+        "。、私片手"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": "2089033126953558018",
+    "handle": "NACHOS2D_",
+    "model": "Seedance 2.5",
+    "likes": 506,
+    "views": 15948,
+    "followers": 35347,
+    "date": "2026-08-16",
+    "dur_ms": 30080,
+    "video_url": "https://video.twimg.com/amplify_video/2089031837624471552/vid/avc1/992x432/Qeo73swzkzPzEfQZ.mp4",
+    "caption": "swap the tea for fast food",
+    "sell": "茶会被快餐替换，适合做饮食习惯反差",
+    "evidence": "Seedance 2.5 同系列",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 30.14,
+    "ocr": {
+      "marked": 2,
+      "huge": false,
+      "edge": 2
+    },
+    "frame_texts": [
+      [
+        "、上式！行、"
+      ],
+      [
+        "の不作法活体何事"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": "2088987488832335979",
+    "handle": "NACHOS2D_",
+    "model": "Seedance 2.5",
+    "likes": 23897,
+    "views": 1013591,
+    "followers": 35347,
+    "date": "2026-08-16",
+    "dur_ms": 30080,
+    "video_url": "https://video.twimg.com/amplify_video/2088985338182021120/vid/avc1/992x432/Brxe9nvz-xsGrD1p.mp4",
+    "caption": "Cissia called Velina and Remielle to train.",
+    "sell": "训练过度自信翻车，适合做运动挑战喜剧",
+    "evidence": "Seedance 2.5 同系列",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 30.14,
+    "ocr": {
+      "marked": 2,
+      "huge": false,
+      "edge": 2
+    },
+    "frame_texts": [
+      [
+        "10回！私全然.疲！"
+      ],
+      [],
+      [
+        "待、本当？？本当私持上！"
+      ],
+      []
+    ]
+  },
+  {
+    "id": "2088758106482209267",
+    "handle": "NACHOS2D_",
+    "model": "Seedance 2.5",
+    "likes": 2563,
+    "views": 80130,
+    "followers": 35347,
+    "date": "2026-08-15",
+    "dur_ms": 30080,
+    "video_url": "https://video.twimg.com/amplify_video/2088757713912090624/vid/avc1/992x432/sU8g678SRUwTOhoq.mp4",
+    "caption": "became gigantic.",
+    "sell": "三人突然巨物化，适合做尺度反转镜头",
+    "evidence": "Seedance 2.5 同系列",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 30.14,
+    "ocr": {
+      "marked": 2,
+      "huge": false,
+      "edge": 2
+    },
+    "frame_texts": [
+      [
+        "！巨始！集！"
+      ],
+      [
+        "！来！私番"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": "2088353919017574690",
+    "handle": "NACHOS2D_",
+    "model": "Seedance 2.5",
+    "likes": 634,
+    "views": 28324,
+    "followers": 35347,
+    "date": "2026-08-14",
+    "dur_ms": 30080,
+    "video_url": "https://video.twimg.com/amplify_video/2088352522343792640/vid/avc1/992x432/8L15AELKxsJ5bUja.mp4",
+    "caption": "Sigrid, Remielle, and Velina just wanted to enjoy the feast.",
+    "sell": "宴会上吃相失控的角色喜剧，适合做食欲 gag 节拍",
+    "evidence": "NACHOS Seedance 2.5 同系列",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 30.14,
+    "ocr": {
+      "marked": 3,
+      "huge": false,
+      "edge": 3
+    },
+    "frame_texts": [
+      [],
+      [
+        "私特、私。"
+      ],
+      [
+        "、部自管理"
+      ],
+      [
+        "最高！勝利！！"
+      ]
+    ]
+  },
+  {
+    "id": "2088243193976705325",
+    "handle": "Sabitamago",
+    "model": "Seedance 2.5",
+    "likes": 707,
+    "views": 48476,
+    "followers": 34799,
+    "date": "2026-08-14",
+    "dur_ms": 30000,
+    "video_url": "https://video.twimg.com/amplify_video/2088242586658164736/vid/avc1/1280x720/zlXcvuCFKbeZyEh-.mp4",
+    "caption": "Seedance 2.5で30秒チャレンジ",
+    "sell": "30秒一镜魔法少女动作，适合做特效连招参考",
+    "evidence": "Seedance 2.5で30秒チャレンジ",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 30.06,
+    "ocr": {
+      "marked": 4,
+      "huge": false,
+      "edge": 8
+    },
+    "frame_texts": [
+      [
+        "TOPVIEW AI",
+        "30sCHALLENGE"
+      ],
+      [
+        "TOPVIEWAI",
+        "30s CHALLENGE"
+      ],
+      [
+        "TOPVIEWAI",
+        "30s CHALLENGE"
+      ],
+      [
+        "TOPVIEW AI",
+        "30sCHALLENGE"
+      ]
+    ]
+  },
+  {
+    "id": "2081856025863328154",
+    "handle": "keshiAIart",
+    "model": "Vidu Q3",
+    "likes": 714,
+    "views": 16963,
+    "followers": 69546,
+    "date": "2026-07-27",
+    "dur_ms": 10077,
+    "video_url": "https://video.twimg.com/amplify_video/2081377602284195841/vid/avc1/1080x1928/1gYrldPg5VxjUJeb.mp4",
+    "caption": "おはようございます！ ViduQ3",
+    "sell": "角色清晨打招呼，适合做竖屏虚拟人设片头",
+    "evidence": "ViduQ3",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 10.12,
+    "ocr": {
+      "marked": 2,
+      "huge": false,
+      "edge": 1
+    },
+    "frame_texts": [
+      [
+        "XXI"
+      ],
+      [
+        "XXII"
+      ],
+      [
+        "XXI"
+      ],
+      [
+        "XXII"
+      ]
+    ]
+  },
+  {
+    "id": "2091190408298602986",
+    "handle": "dvorahfr",
+    "model": "Grok Imagine",
+    "likes": 1308,
+    "views": 38964,
+    "followers": 196026,
+    "date": "2026-08-22",
+    "dur_ms": 30162,
+    "video_url": "https://video.twimg.com/amplify_video/2090814698358747136/vid/avc1/2160x3240/XMDyMQRXG1vrA8Ri.mp4",
+    "caption": "Grok Imagine cinematic",
+    "sell": "竖屏电影感人物镜头，适合做角色定妆长镜头",
+    "evidence": "from @dvorahfr Grok Imagine timeline",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 30.21,
+    "ocr": {
+      "marked": 1,
+      "huge": true,
+      "edge": 1
+    },
+    "frame_texts": [
+      [],
+      [
+        "AsteroidB-612",
+        "\"Itis only with the heart\"",
+        "what is essential",
+        "is invisibleto the eye."
+      ],
+      [
+        "eniir",
+        "luuid",
+        "eiienbrwaun"
+      ],
+      []
+    ]
+  },
+  {
+    "id": "2087270824633848280",
+    "handle": "NACHOS2D_",
+    "model": "Seedance 2.5",
+    "likes": 701,
+    "views": 24482,
+    "followers": 35347,
+    "date": "2026-08-11",
+    "dur_ms": 30080,
+    "video_url": "https://video.twimg.com/amplify_video/2087270610288160768/vid/avc1/992x432/jK-SjkpGamF-ootb.mp4",
+    "caption": "Cissia thought Minecraft would be easy.",
+    "sell": "角色玩 Minecraft 摸鱼让同伴干活，适合做游戏联动 gag",
+    "evidence": "NACHOS Seedance 2.5 同系列",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 30.14,
+    "ocr": {
+      "marked": 2,
+      "huge": false,
+      "edge": 2
+    },
+    "frame_texts": [
+      [
+        "痛痛痛铁硬！！"
+      ],
+      [],
+      [],
+      [
+        "<…<屋？"
+      ]
+    ]
+  },
+  {
+    "id": "2087215129288941765",
+    "handle": "NACHOS2D_",
+    "model": "Seedance 2.5",
+    "likes": 1012,
+    "views": 34003,
+    "followers": 35347,
+    "date": "2026-08-11",
+    "dur_ms": 30080,
+    "video_url": "https://video.twimg.com/amplify_video/2087214570767073280/vid/avc1/992x432/zQp1ujvOfgxySevh.mp4",
+    "caption": "Cissia was being carried by giant Velina and ate an entire pizza.",
+    "sell": "被巨人扛着偷吃整张披萨，适合做体型差+食欲 gag",
+    "evidence": "NACHOS Seedance 2.5 同系列",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 30.14,
+    "ocr": {
+      "marked": 2,
+      "huge": false,
+      "edge": 2
+    },
+    "frame_texts": [
+      [
+        "、の腕中本当快適！食最高場所！！"
+      ],
+      [],
+      [
+        "一口食？、！全部私の！"
+      ],
+      []
+    ]
+  },
+  {
+    "id": "2070552410498424846",
+    "handle": "NACHOS2D_",
+    "model": "Seedance 2.0",
+    "likes": 23876,
+    "views": 1600579,
+    "followers": 35347,
+    "date": "2026-06-26",
+    "dur_ms": 15092,
+    "video_url": "https://video.twimg.com/amplify_video/2070551613773594624/vid/avc1/864x496/IxxTg3O46ruhsojL.mp4",
+    "caption": "Until Cissia got her hands on explosives Made with Seedance 2.0",
+    "sell": "角色拿到炸药后场面失控，适合做破坏喜剧高潮",
+    "evidence": "Made with Seedance 2.0",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 15.14,
+    "ocr": {
+      "marked": 2,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "TNT",
+        "TN7"
+      ],
+      [
+        "TNT"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": "2097253589647310851",
+    "handle": "aymducking",
+    "model": "Wan 3.0",
+    "likes": 918,
+    "views": 65851,
+    "followers": 9735,
+    "date": "2026-09-08",
+    "dur_ms": 10077,
+    "video_url": "https://video.twimg.com/amplify_video/2097253565571932160/vid/avc1/1284x716/qx4pUbG_YsFnMWLb.mp4",
+    "caption": "GTA 6 leaked?? Nah. I made this using WAN 3.0 + @itsPolloAI",
+    "sell": "伪GTA街头载具追逐，适合做开放世界游戏预告质感",
+    "evidence": "I made this using WAN 3.0",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 10.12,
+    "ocr": {
+      "marked": 4,
+      "huge": false,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "Pollo.ai"
+      ],
+      [
+        "Pollo.ai"
+      ],
+      [
+        "Pollo.ai"
+      ],
+      [
+        "Pollo.ai"
+      ]
+    ]
+  },
+  {
+    "id": "2097145596561789407",
+    "handle": "JaydenCoach",
+    "model": "Seedance 2.5",
+    "likes": 1601,
+    "views": 142301,
+    "followers": 44720,
+    "date": "2026-09-08",
+    "dur_ms": 12213,
+    "video_url": "https://video.twimg.com/amplify_video/2097145553482031106/vid/avc1/720x1280/wdlAhlMKEHVnG4gP.mp4?tag=14",
+    "caption": "Treating AI video like real production GPT-6 Astra to Seedance 2.5",
+    "sell": "竖屏空间调度短镜头，适合做角色走进场景的开场",
+    "evidence": "Seedance 2.5 renders",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 12.26,
+    "ocr": {
+      "marked": 4,
+      "huge": false,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "&CapCut",
+        "GPT-6ASTRA"
+      ],
+      [
+        "&CapCut",
+        "GPT-6ASTRA",
+        "LVN"
+      ],
+      [
+        "8CapCut",
+        "GPT-6ASTRA"
+      ],
+      [
+        "8CapCut",
+        "GPT-6ASTRA"
+      ]
+    ]
+  },
+  {
+    "id": "2065479246479290412",
+    "handle": "Kling_ai",
+    "model": "Kling 3.0",
+    "likes": 1376,
+    "views": 131648,
+    "followers": 134835,
+    "date": "2026-06-12",
+    "dur_ms": 20967,
+    "video_url": "https://video.twimg.com/amplify_video/2065389074429456384/vid/avc1/2160x2880/Ej5yYqr3OwW1gFJH.mp4",
+    "caption": "Who’s Your Matchday Pick?",
+    "sell": "比赛日角色选择的运动镜头，适合做赛事预热",
+    "evidence": "Kling official clip",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 21.01,
+    "ocr": {
+      "marked": 3,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "ATA"
+      ],
+      [
+        "PORTUGAL"
+      ],
+      [
+        "SPAIN"
+      ],
+      [
+        "SWITZERLAND"
+      ]
+    ]
+  },
+  {
+    "id": "2054939794682400779",
+    "handle": "Kling_ai",
+    "model": "Kling 3.0",
+    "likes": 368,
+    "views": 61395,
+    "followers": 134835,
+    "date": "2026-05-14",
+    "dur_ms": 13978,
+    "video_url": "https://video.twimg.com/amplify_video/2054902598667272193/vid/avc1/3840x2160/8IXBeG_HeNJEPpB4.mp4",
+    "caption": "When the camera finds you then you find the field. 🤫",
+    "sell": "镜头找到你再切到球场的转播感，适合做体育开场",
+    "evidence": "Kling official clip",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 14.02,
+    "ocr": {
+      "marked": 1,
+      "huge": true,
+      "edge": 4
+    },
+    "frame_texts": [
+      [
+        "FRA",
+        "JPN",
+        "KlingAl",
+        "SHOTSONTARGET",
+        "BRAN"
+      ],
+      [
+        "KlingAl"
+      ],
+      [
+        "KlingAl",
+        "VISA",
+        "VISA"
+      ],
+      [
+        "KlingAl"
+      ]
+    ]
+  },
+  {
+    "id": "2035169329487257901",
+    "handle": "john_my07",
+    "model": "Seedance 2.0",
+    "likes": 2235,
+    "views": 111324,
+    "followers": 12886,
+    "date": "2026-03-21",
+    "dur_ms": 15185,
+    "video_url": "https://video.twimg.com/ext_tw_video/2035169199442493440/pu/vid/avc1/1080x1920/rG4cIF_IaQBOnsmN.mp4",
+    "caption": "Gugu Gaga wants to do make-up but she isn't being allowed and see how she reacts.\n\nVideo created with Seedance 2.0 on @yapper_so",
+    "sell": "小孩闹着化妆的生活喜剧，适合做亲子短视频",
+    "evidence": "Video created with Seedance 2.0",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 15.23,
+    "ocr": {
+      "marked": 2,
+      "huge": false,
+      "edge": 4
+    },
+    "frame_texts": [
+      [
+        "Yapper",
+        "咕咕嘎嘎"
+      ],
+      [
+        "Yapper",
+        "咕咕嘎嘎"
+      ],
+      [
+        "Yapper"
+      ],
+      [
+        "Yapper"
+      ]
+    ]
+  },
+  {
+    "id": "2034419049468403912",
+    "handle": "john_my07",
+    "model": "Seedance 2.0",
+    "likes": 3403,
+    "views": 94412,
+    "followers": 12886,
+    "date": "2026-03-18",
+    "dur_ms": 15278,
+    "video_url": "https://video.twimg.com/ext_tw_video/2034418971450171392/pu/vid/avc1/1080x1920/ChTkulzTe-hP13-Y.mp4",
+    "caption": "Look at the excitement on the face of Gugu Gaga and how cute she is!\n\nVideo created with Seedance 2.0 on @yapper_so",
+    "sell": "孩子兴奋表情特写，适合做亲子治愈镜头",
+    "evidence": "Video created with Seedance 2.0",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 15.33,
+    "ocr": {
+      "marked": 4,
+      "huge": false,
+      "edge": 4
+    },
+    "frame_texts": [
+      [
+        "Yapper"
+      ],
+      [
+        "Yapper"
+      ],
+      [
+        "Yapper"
+      ],
+      [
+        "Yapper"
+      ]
+    ]
+  },
+  {
+    "id": "2056102418119536667",
+    "handle": "testerlabor",
+    "model": "Grok Imagine",
+    "likes": 949,
+    "views": 137959,
+    "followers": 14564,
+    "date": "2026-05-17",
+    "dur_ms": 10041,
+    "video_url": "https://video.twimg.com/ext_tw_video/2056102377711681536/pu/vid/avc1/960x960/hLjZhiVB93jtPS28.mp4?tag=23",
+    "caption": "To xAI: Many Grok users are demanding much higher Grok Imagine rate limits for SuperGrok/Premium+ and a limit warning before it happens.",
+    "sell": "用户侧 Imagine 成片，适合做社区氛围镜头",
+    "evidence": "Grok Imagine rate limits",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 10.09,
+    "ocr": {
+      "marked": 2,
+      "huge": false,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "Grok Imagine"
+      ],
+      [
+        "Grok Imagine"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": "2054995921746993161",
+    "handle": "Diana_Osire",
+    "model": "Happy Horse 1.0",
+    "likes": 147,
+    "views": 105119,
+    "followers": 55633,
+    "date": "2026-05-14",
+    "dur_ms": 12160,
+    "video_url": "https://video.twimg.com/amplify_video/2054995866981969920/vid/avc1/1280x720/zwvzUhCxEvUdurge.mp4?tag=14",
+    "caption": "Most AI video models break under rain, crowds, reflections, and motion.\n\nHappyHorse 1.0 handled all four.",
+    "sell": "赛博雨夜人群与反射，适合做氛围动作开场",
+    "evidence": "HappyHorse 1.0 handled all four.",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 12.25,
+    "ocr": {
+      "marked": 3,
+      "huge": true,
+      "edge": 1
+    },
+    "frame_texts": [
+      [],
+      [
+        "五果大事",
+        "萬美分粮",
+        "00号",
+        "木伙木牛术"
+      ],
+      [
+        "广五茶大事",
+        "素水生"
+      ],
+      [
+        "老水快水中心"
+      ]
+    ]
+  },
+  {
+    "id": "2037222810733662265",
+    "handle": "elonmusk",
+    "model": "Grok Imagine",
+    "likes": 119635,
+    "views": 47413704,
+    "followers": 241660846,
+    "date": "2026-03-26",
+    "dur_ms": 29080,
+    "video_url": "https://video.twimg.com/ext_tw_video/2037134229801259008/pu/vid/avc1/720x720/DgyJ5EV-jrib3ABb.mp4",
+    "caption": "The new Imagine model will be even more beautiful",
+    "sell": "官方预告级镜头，适合做品牌",
+    "evidence": "The new Imagine model will be even more beautiful",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 29.14,
+    "ocr": {
+      "marked": 1,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "I IA",
+        "deb"
+      ],
+      [
+        "deb"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": "2051992429080064424",
+    "handle": "0xbisc",
+    "model": "Seedance 2.0",
+    "likes": 3406,
+    "views": 193911,
+    "followers": 15823,
+    "date": "2026-05-06",
+    "dur_ms": 15033,
+    "video_url": "https://video.twimg.com/amplify_video/2051987139446083584/vid/avc1/1080x1080/F1VXtzcmEYc3EEUR.mp4",
+    "caption": "Ink Groove made with GPT Image 2 + Seedance 2",
+    "sell": "墨舞镜头，适合做艺术片",
+    "evidence": "GPT Image 2 + Seedance 2",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 15.09,
+    "ocr": {
+      "marked": 4,
+      "huge": false,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "Inkflow",
+        "GROOVE",
+        "24MMLOW ANGLEWIDE PERSPECTIVEONE CONTINUOUS SHOT",
+        "NOILOW",
+        "INK",
+        "PREVIS STORYBOARD-SINGLETAKE",
+        "CAMERA PULLED",
+        "PRESSED",
+        "FINALCRM",
+        "SOIL",
+        "NKSTRE"
+      ],
+      [
+        "Inkflow",
+        "GROOVE",
+        "24MM",
+        "LOWANGLE.WIDE PERSPECTIVE",
+        "ONE CONTINUOUS SHOT",
+        "NOIOW",
+        "INK",
+        "PREVIS STORYBOARD —SINGLE TAKE",
+        "PUSH IN",
+        "CAMERA PULLED",
+        "RECENTER",
+        "FINAL DRV"
+      ],
+      [
+        "Inkflow",
+        "GROOVE",
+        "24MM·LOWANGLEWIDE PERSPECTIVE·ONE CONTINUOUS SHOT",
+        "MOTION",
+        "INK",
+        "PREVIS STORYBOARD-SINGLETAKE",
+        "PUSH IN",
+        "CAMERAPULLED",
+        "A1100:",
+        "RECENTER",
+        "FRESSED",
+        "FINALDRVE"
+      ],
+      [
+        "Inkflow",
+        "GROOVE",
+        "LOW ANGLEWIDE PERSPECTIVE·ONE CONTINUOUS SHOT",
+        "NOIOW",
+        "INK",
+        "PREVIS STORYBOARD—SINGLE TAKE",
+        "PUSH IN",
+        "CAMERA PULLED",
+        "PRESSED",
+        "FINALDRVE"
+      ]
+    ]
+  },
+  {
+    "id": "2050154597340287143",
+    "handle": "0xbisc",
+    "model": "Seedance 2.0",
+    "likes": 3210,
+    "views": 309695,
+    "followers": 15823,
+    "date": "2026-05-01",
+    "dur_ms": 17800,
+    "video_url": "https://video.twimg.com/amplify_video/2050150455599316992/vid/avc1/1080x1080/edzfc67xqwqVbYaR.mp4",
+    "caption": "Kitchen Hunt GPT Image 2 + Seedance 2.0",
+    "sell": "厨房追逐镜头，适合做喜剧片",
+    "evidence": "GPT Image 2 + Seedance 2.0",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 17.86,
+    "ocr": {
+      "marked": 1,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "CHARACTER DESIGN SHEET",
+        "NUO",
+        "EXPRESSIONS",
+        "ROCKY",
+        "EXPRESSIONS",
+        "THEBAKER",
+        "THECOCKROACH",
+        "A passionate and",
+        "A street-mart, quick-witted",
+        "optimistic young baker",
+        "cockroach with amischievous",
+        "streak. He's always one step"
+      ],
+      [
+        "CHARACTER DESIGN SHEET",
+        "NUO",
+        "EXPRESSIONS",
+        "ROCKY",
+        "EXPRESSIONS",
+        "THEBAKER",
+        "THECOCKROACH",
+        "A passionate and",
+        "A street-smart, quick-witted",
+        "optimistic young baker",
+        "cockroach with amischievous",
+        "who believes every"
+      ],
+      [
+        "CHARACTER DESIGN SHEET",
+        "NUO",
+        "EXPRESSIONS",
+        "ROCKY",
+        "EXPRESSIONS",
+        "THEBAKER",
+        "THECOCKROACH",
+        "A passionate and",
+        "A stree-smart, quick-witted",
+        "optimistic young baker",
+        "cockroach with amischievous",
+        "streak.Hesalways one step"
+      ],
+      [
+        "Kitchen",
+        "Hunt",
+        "CHARACTER DESIGN SHEET",
+        "NUO",
+        "EXPRESSIONS",
+        "ROCKY",
+        "EXPRESSIONS",
+        "THEBAKER",
+        "THECOCKROACH",
+        "A passionate and",
+        "A stree-smart quic-wittd",
+        "optimistic young baker"
+      ]
+    ]
+  },
+  {
+    "id": "2098528258283159853",
+    "handle": "a0mUYucgm3JTJp9",
+    "model": "Seedance 2.5",
+    "likes": 6649,
+    "views": 327044,
+    "followers": 4513,
+    "date": "2026-09-11",
+    "dur_ms": 30041,
+    "video_url": "https://video.twimg.com/amplify_video/2098412199178039296/vid/avc1/1440x1920/_npKVTlCToFoWj8b.mp4",
+    "caption": "276 ちゅー ChatGPT Images 2.0×Seedance2.5",
+    "sell": "少女亲吻特写，适合做角色情绪",
+    "evidence": "ChatGPT Images 2.0×Seedance2.5",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 30.11,
+    "ocr": {
+      "marked": 3,
+      "huge": true,
+      "edge": 3
+    },
+    "frame_texts": [
+      [],
+      [
+        "Hey, quit touching my cheeks!",
+        "Don't do that in public！"
+      ],
+      [
+        "Looks like the bus",
+        "still isn't here."
+      ],
+      [
+        "Honestly,you're hopeless."
+      ]
+    ]
+  },
+  {
+    "id": "2046730453139276011",
+    "handle": "techhalla",
+    "model": "Seedance 2.0",
+    "likes": 8726,
+    "views": 1885511,
+    "followers": 97265,
+    "date": "2026-04-21",
+    "dur_ms": 15069,
+    "video_url": "https://video.twimg.com/amplify_video/2046728929428332545/vid/avc1/1920x1080/hhTAo0z9ny2z_dVt.mp4",
+    "caption": "This is the F1 we deserve. Seedance 2.0 prompt below",
+    "sell": "F1赛车镜头，适合做运动开场",
+    "evidence": "Seedance 2.0 prompt below",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 15.12,
+    "ocr": {
+      "marked": 1,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "LIVE",
+        "SPORTSHD",
+        "14:00:05CET"
+      ],
+      [
+        "LIVE",
+        "SPORTSHD",
+        "14:06:06CET",
+        "RedBull",
+        "AQUA Red",
+        "Red Bull",
+        "-RRCYEEE-"
+      ],
+      [
+        "LIVESPORTSHD",
+        "14:07:03CET"
+      ],
+      [
+        "LIVESPORTSHD",
+        "14:09:02CET",
+        "dBul"
+      ]
+    ]
+  },
+  {
+    "id": "2084265093811073167",
+    "handle": "Yokohara_h",
+    "model": "MiniMax H3",
+    "likes": 1302,
+    "views": 139393,
+    "followers": 124606,
+    "date": "2026-08-03",
+    "dur_ms": 33916,
+    "video_url": "https://video.twimg.com/amplify_video/2084263063390429184/vid/avc1/1280x714/EVTRexo1UdMdGLyR.mp4",
+    "caption": "ローカルで動かせるMiniMax H3がリリースされたのでComfy UIで適当に試した",
+    "sell": "本地 MiniMax H3 成片测试，适合做模型能力展示",
+    "evidence": "ローカルで動かせるMiniMax H3",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 33.92,
+    "ocr": {
+      "marked": 1,
+      "huge": true,
+      "edge": 1
+    },
+    "frame_texts": [
+      [],
+      [
+        "GUYOJING",
+        "Eteul",
+        "RRE",
+        "HCAE"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": "2046117912252170567",
+    "handle": "tetsuoai",
+    "model": "Grok Imagine",
+    "likes": 1802,
+    "views": 2005155,
+    "followers": 240405,
+    "date": "2026-04-20",
+    "dur_ms": 17600,
+    "video_url": "https://video.twimg.com/amplify_video/2046117068693819392/vid/avc1/1132x720/meuAV29-RhErUzC3.mp4",
+    "caption": "You can now create and share your own Grok Imagine templates. Nikita Boar template",
+    "sell": "野猪模板动画，适合做风格化角色循环",
+    "evidence": "Grok Imagine templates ... Nikita Boar",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 17.65,
+    "ocr": {
+      "marked": 3,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "TypePromptsTestPreview",
+        "Chooseatemplatetypetobegin",
+        "Photo→Video",
+        "Photo→StyleEdit",
+        "Transformaphoto into a different",
+        "prompt.",
+        "visual style.",
+        "Photo→Edit→Video",
+        "Edlt a photo,henanimate the",
+        "name + description",
+        "nikitaboar",
+        "Add a description."
+      ],
+      [
+        "Photo → Style Edit",
+        "Image",
+        "TypePromptsTest，Preview",
+        "Testyourtemplate",
+        "Uploada testimage to seehowyour templateworks.Thisswhatanend userwould",
+        "provide.",
+        "Drop your media here",
+        "select an",
+        "duuol",
+        "Recent",
+        "nikitaboar",
+        "turn anyuploaded face Into the samecursed-tech-founder"
+      ],
+      [
+        "Featured Templates",
+        "Funky Dance",
+        "Chibi",
+        "Spagheti Westem",
+        "3D Animatlon",
+        "Add Glrlfriend",
+        "Comic Book",
+        "CyberG",
+        "Discover My Templates",
+        "Create New",
+        "Type to magine",
+        "ntkita bonr"
+      ],
+      [
+        "Copled",
+        "Edit",
+        "Upload，GenerateDone",
+        "Dropyourmedlahere",
+        "UploadFile",
+        "copy the share link",
+        "Recent",
+        "nikita boar",
+        "Image",
+        "boarmascot."
+      ]
+    ]
+  },
+  {
+    "id": "2099588162209108245",
+    "handle": "KeorUnreal",
+    "model": "Kling 3.0",
+    "likes": 1518,
+    "views": 23167,
+    "followers": 42712,
+    "date": "2026-09-14",
+    "dur_ms": 12041,
+    "video_url": "https://video.twimg.com/amplify_video/2099588066419621888/vid/avc1/1076x1928/aTEY5ByQ778-CeMc.mp4",
+    "caption": "It's better not to make her angry. Kling 3.0 via Higgsfield AI",
+    "sell": "蜘蛛女夜巡",
+    "evidence": "Kling 3.0 via Higgsfield AI",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 12.1,
+    "ocr": {
+      "marked": 4,
+      "huge": true,
+      "edge": 5
+    },
+    "frame_texts": [
+      [
+        "MARVEL COMICS GROUP",
+        "CARER"
+      ],
+      [
+        "Keor",
+        "MARVEL COMICS GROUP",
+        "ARER",
+        "HE HIGHT"
+      ],
+      [
+        "Keor",
+        "MARVEL COMICS GROUP",
+        "AER",
+        "THE HIGHT",
+        "MORRIIR!!"
+      ],
+      [
+        "MARVEL COMICS GROUP",
+        "RED",
+        "THE HIGHT",
+        "MORRIIR!!"
+      ]
+    ]
+  },
+  {
+    "id": "2091486492598427777",
+    "handle": "ojiji2025",
+    "model": "Kling 3.0",
+    "likes": 665,
+    "views": 12754,
+    "followers": 5338,
+    "date": "2026-08-23",
+    "dur_ms": 15041,
+    "video_url": "https://video.twimg.com/amplify_video/2091486420607328256/vid/avc1/1440x1440/7jQW4nLJa7zfPZUQ.mp4",
+    "caption": "Footage of a mecha rampage Made with Midjourney and Kling 3.0",
+    "sell": "机甲城市暴走",
+    "evidence": "Made with Midjourney and Kling 3.0",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 15.09,
+    "ocr": {
+      "marked": 4,
+      "huge": false,
+      "edge": 12
+    },
+    "frame_texts": [
+      [
+        "REC",
+        "10:24 AM",
+        "MAF",
+        "BATTERY LOW",
+        "SP 01:24:36"
+      ],
+      [
+        "大营舰",
+        "REC",
+        "10:24AM",
+        "MAF",
+        "BATTERY LOW",
+        "SP 01:24:36"
+      ],
+      [
+        "REC",
+        "10:24 AM",
+        "MAF",
+        "BATTERY LDW",
+        "SP 0124:36"
+      ],
+      [
+        "REC",
+        "10:24AM",
+        "BATTERY LOW",
+        "SP 01:24:36"
+      ]
+    ]
+  },
+  {
+    "id": "2076637773214486759",
+    "handle": "Kling_ai",
+    "model": "Kling 3.0",
+    "likes": 729,
+    "views": 549880,
+    "followers": 134835,
+    "date": "2026-07-13",
+    "dur_ms": 15133,
+    "video_url": "https://video.twimg.com/amplify_video/2076601278353035264/vid/avc1/1920x1080/k5dLeXr6OjqqHHwg.mp4",
+    "caption": "Cat by day. Boxer by night.",
+    "sell": "猫拳击手",
+    "evidence": "official @Kling_ai",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 15.19,
+    "ocr": {
+      "marked": 2,
+      "huge": true,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "ROUND",
+        "VIRTUABOXING",
+        "LIVE",
+        "STRIKEFORGE",
+        "NEXORA"
+      ],
+      [
+        "ROUND",
+        "VIRTUABOXING",
+        "·LIVE",
+        "PRIrP6FLFKSNRATRAA"
+      ],
+      [
+        "ROUND",
+        "VIRTUABOXING",
+        "LIVE"
+      ],
+      [
+        "ROUND",
+        "VIRTUABOXING",
+        "LIVE",
+        "NEXORA",
+        "IALOR",
+        "CHAMPIONSHIP"
+      ]
+    ]
+  },
+  {
+    "id": "2080080455756591396",
+    "handle": "Kling_ai",
+    "model": "Kling 3.0",
+    "likes": 217,
+    "views": 163935,
+    "followers": 134835,
+    "date": "2026-07-23",
+    "dur_ms": 12817,
+    "video_url": "https://video.twimg.com/amplify_video/2079920884350095360/vid/avc1/1080x1920/Xn0lUPXnxZkK_caP.mp4",
+    "caption": "POV: The Massive Disaster Was Filmed Here",
+    "sell": "灾难现场POV",
+    "evidence": "official @Kling_ai",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 12.86,
+    "ocr": {
+      "marked": 3,
+      "huge": false,
+      "edge": 3
+    },
+    "frame_texts": [
+      [
+        "POV: What I saw on the filming set."
+      ],
+      [
+        "POV: What I saw on the filming set.",
+        "SYBA",
+        "DYDLLPX"
+      ],
+      [
+        "POV: What I saw at the cinema.",
+        "MIRAI",
+        "INRISE",
+        "OTORS",
+        "JAPAN",
+        "AIRLINES",
+        "TOSHIBA",
+        "NIPPON",
+        "EXPRESS",
+        "FUJI",
+        "FILM",
+        "DUTYFRE"
+      ],
+      [
+        "EIKPPRONE",
+        "TOSHIBA",
+        "EAST MUSIC"
+      ]
+    ]
+  },
+  {
+    "id": "2081336600588611738",
+    "handle": "0xbisc",
+    "model": "Seedance 2.0",
+    "likes": 1510,
+    "views": 63250,
+    "followers": 15823,
+    "date": "2026-07-26",
+    "dur_ms": 15033,
+    "video_url": "https://video.twimg.com/amplify_video/2081336238704074752/vid/avc1/1080x1080/8yT7sCO9uIZ8KSYH.mp4",
+    "caption": "kinda bored, just messing around with a pen made with Seedance 2",
+    "sell": "玩笔特写",
+    "evidence": "made with Seedance 2 on @openart_ai",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 15.09,
+    "ocr": {
+      "marked": 4,
+      "huge": false,
+      "edge": 0
+    },
+    "frame_texts": [
+      [
+        "REID",
+        "HSH1.001",
+        "ICALCOLATE.",
+        "ICONTRDL",
+        "ETERY VARIABLE",
+        "THEWMAKE",
+        "THE PERFECT MOVE",
+        "THECALMCONTROL",
+        "AGE",
+        "ROLE",
+        "HIGH SCHOOL STUDENT",
+        "TRAITS"
+      ],
+      [
+        "REID",
+        "HSH1.O1",
+        "ICALCULATE.",
+        "ICONTADL",
+        "EVERY VARIABLE",
+        "THENIMAKE",
+        "THE PERFECT MOVE",
+        "THE CALM CONTROL",
+        "AGE",
+        "ROLE",
+        "HIGH SCHOOL STUDENT",
+        "TRAITS"
+      ],
+      [
+        "REID",
+        "HSHI.OI",
+        "ICALCULATE.",
+        "ICONTAOL",
+        "EVERY VARIABLE",
+        "THENIMAKE",
+        "THE PERFECT MOVE",
+        "THE CALM CONTROL",
+        "AGE",
+        "ROLE",
+        "HIGH SCHOOL STUDENT",
+        "TRAITS"
+      ],
+      [
+        "REID",
+        "IODNTHUSH",
+        "ICALCULATE.",
+        "ICDNTAOL",
+        "EVERY VARIABLE",
+        "THENIMAKE",
+        "THE PERFECT MOVE",
+        "THE CALM CONTROL",
+        "AGE",
+        "ROLE",
+        "HIGH SCHOOL STUDENT",
+        "TRAITS"
+      ]
+    ]
+  },
+  {
+    "id": "2096236118442398127",
+    "handle": "SadiaMalik182",
+    "model": "Seedance 2.5",
+    "likes": 1099,
+    "views": 79412,
+    "followers": 10796,
+    "date": "2026-09-05",
+    "dur_ms": 29472,
+    "video_url": "https://video.twimg.com/amplify_video/2096235764891963392/vid/avc1/720x1280/qO2EYNxrzBP1Ez9V.mp4",
+    "caption": "A little seaside escape created with Seedance 2 5 on @nemovideoai",
+    "sell": "海边咖啡馆vlog",
+    "evidence": "created with Seedance 2 5 on @nemovideoai #Seedance25",
+    "reason": "OCR判定画面不纯净（字幕/水印/大面积文字）",
+    "measured_s": 29.54,
+    "ocr": {
+      "marked": 3,
+      "huge": false,
+      "edge": 7
+    },
+    "frame_texts": [
+      [
+        "/IDEO"
+      ],
+      [
+        "NEMO",
+        "VIDEO"
+      ],
+      [
+        "NEMO",
+        "VIDEO"
+      ],
+      [
+        "NEMO",
+        "VIDEO"
+      ]
+    ]
+  }
+]
